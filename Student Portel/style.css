@@ -1,0 +1,35 @@
+body{
+    padding-bottom: 60px;
+    padding-top: 60px;
+    height: 150vh;
+    font-size: 18px;
+    background: linear-gradient(to bottom, rgb(95, 236, 95), white);
+}
+div{
+    align-items: center;
+    justify-content: center;
+}
+input{
+    padding: 10px;
+    font-size: 18px;
+}
+
+button{
+    color: #000;
+    font-size: 18px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+h3{
+    font-size: 30px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.main_div{
+    height: 300px;
+    width: 300px;
+}
